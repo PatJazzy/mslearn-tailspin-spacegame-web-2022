@@ -13,7 +13,7 @@ pool:
 
 
 variables:
-  buildConfiguration: '$(buildConfiguration)'
+  buildConfiguration: 'Release'
   wwwrootDir: '$(wwwrootDir)'
   dotnetSdkVersion: '5.x'
 
