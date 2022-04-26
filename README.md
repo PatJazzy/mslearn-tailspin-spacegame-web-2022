@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gtsprea/Space%20Game%20-%20web%20-%20Workflow%202022/_apis/build/status/PatJazzy.mslearn-tailspin-spacegame-web-2022?branchName=main)](https://dev.azure.com/gtsprea/Space%20Game%20-%20web%20-%20Workflow%202022/_build/latest?definitionId=9&branchName=main)
 
 # Contributing
 
